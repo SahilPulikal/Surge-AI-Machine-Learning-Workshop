@@ -1,0 +1,10 @@
+certifi==2019.11.28
+chardet==3.0.4
+et-xmlfile==1.0.1
+idna==2.8
+jdcal==1.4.1
+openpyxl==3.0.2
+pyshorteners==0.6.1
+requests==2.22.0
+short-url==1.2.2
+urllib3==1.25.7
